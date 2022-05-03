@@ -3,8 +3,6 @@ import pandas
 import requests
 import snowflake.connector
 
-streamlit config show
-
 streamlit.title('Breakfast')
 
 streamlit.header('Breakfast Favorites')
